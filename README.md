@@ -18,7 +18,7 @@ Aplikasi ini menggunakan perhitungan paket:
 * **PS 5**: Rp 10.000/jam (Paket: 4j=40rb + Bonus 30 menit)
 
 ## 🚀 Cara Penggunaan
-1. Masukkan **PIN Kasir** (Default: `1234`).
+1. Masukkan **PIN Kasir**.
 2. Masukkan nama pelanggan.
 3. Input nominal uang di kolom "+ UANG" untuk menambah durasi secara otomatis.
 4. Gunakan tombol **STOP** untuk menjeda dan **RESET** untuk mengosongkan billing.
